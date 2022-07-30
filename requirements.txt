@@ -1,0 +1,2 @@
+markdownify==0.6.5
+mammoth==1.4.15
